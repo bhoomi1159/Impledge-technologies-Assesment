@@ -17,6 +17,7 @@ We can use a combination of **Dynamic Programming (DP)** and a **recursive appro
 6. we use System.nano function for the  time calculation of this program.
 
 By combining **sorting** and **recursive DP with memoization**, this approach handles large datasets more efficiently and ensures the program can scale for files with a large number of words.
+we can also solves this problem with trie data structure.
 # steps to execute the code 
 1. install java development kit in your system.
 2. run the solution.java files in any code editor you have ike vs code,eclipse,etc.
